@@ -1,5 +1,5 @@
 # redarashid824
-# Hi! I'm Rashid Reda 👋
+# Hi! I'm Rashed Reda 👋
 
 I'm from Egypt, and I work as a Frontend Developer.
 
